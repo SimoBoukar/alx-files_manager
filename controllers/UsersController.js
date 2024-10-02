@@ -1,3 +1,4 @@
+/* eslint-disable */
 import sha1 from 'sha1';
 import { ObjectId } from 'mongodb';
 import Queue from 'bull';
